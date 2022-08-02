@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Devu</h1>
 <h3 align="center">CS-Student @ ASE | Full Stack Developer | UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg26&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heisenberg26" alt="heisenberg26" /></a> </p>
-
-- 🔭 I’m currently working on [Fin24@AI](Finance App for Teens)
+- 🔭 I’m currently working on [Fin24@AI]
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [Github :)](Github :))
+- 👨‍💻 All of my projects are available at Github :)
 
-- 💬 Ask me about **react, vue , databases , ui/ux**
+- 💬 Ask me about **React, PostGre , API's , UI/UX , Animation , Philosophy**
 
 - 📫 How to reach me **devuashutosh26@gmail.com**
 
