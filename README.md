@@ -2,7 +2,7 @@
 <h3 align="center">CS-Student @ ASE | Full Stack Developer | UI/UX Designer</h3>
 
 
-- 🔭 I’m currently working on Investec
+- 🔭 I’m currently working on Mozart
 
 - 🌱 I’m currently learning **ReactJS, ExpressJS**
 
